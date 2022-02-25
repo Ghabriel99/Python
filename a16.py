@@ -1,4 +1,4 @@
-lanche = ('café', 'chá', 'cogumelin', 'verdin', 'banana', 'pão')
+lanche = ('café', 'chá', 'bolo', 'banana', 'pão')
 
 
 for pos, comida in enumerate(lanche):
